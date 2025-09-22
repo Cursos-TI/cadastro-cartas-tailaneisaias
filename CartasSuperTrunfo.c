@@ -15,7 +15,7 @@ int main()
   int Populacao, NumeroDePontosTuristicos;
   float Area, PIB;
 
-  // Área para entrada de dados
+    // Área para entrada de dados
   printf("Carta1 \n");
 
   printf("Uma letra que represente seu estado: \n");
